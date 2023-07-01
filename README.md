@@ -14,7 +14,7 @@
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit" />
 </div><br/>
 
-### Sempre buscando aprender mais e evoluir a cada dia 😁
+### Sempre buscando aprender e evoluir mais a cada dia 😁
 
 
 
