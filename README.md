@@ -4,6 +4,8 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDittrichi&show_icons=true&theme=dracula&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDittrichi&layout=compact&theme=dracula)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
