@@ -2,9 +2,9 @@
 
 <br>
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDittrichi&show_icons=true&theme=dracula&count_private=true)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDittrichi&show_icons=true&theme=transparent&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDittrichi&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDittrichi&layout=compact&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
